@@ -26,7 +26,7 @@
 ## 安裝與設定
 
 1. 登入 [Google Apps Script](https://script.google.com/)，建立新專案
-2. 複製 `drive_notifier_s.gs` 程式碼貼上
+2. 複製 `drive_notifier_s.gs` 程式碼後再GAS貼上
 3. 修改設定區：
    - 填寫需要監控的資料夾ID（可同時多個）
    - 填入 Telegram Bot Token 與 Chat ID，或填入 Email 地址
