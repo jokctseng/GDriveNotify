@@ -2,6 +2,8 @@
 
 > Copyright (C) 2025 [KC Tseng]
 
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3ODORW)
+
 ---
 
 ## 專案簡介
